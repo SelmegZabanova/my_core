@@ -1,6 +1,7 @@
 {
     "name": "selmeg/mycore",
     "type": "library",
+    "license": "MIT",
     "require": {
         "php": "8.3"
     },
